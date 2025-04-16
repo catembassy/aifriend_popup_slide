@@ -1,0 +1,2 @@
+rootProject.name = 'aifriend_popup_slide'
+include ':app'
